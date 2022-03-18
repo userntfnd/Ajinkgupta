@@ -7,7 +7,8 @@
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=ajinkgupta)
+    ![](https://komarev.com/ghpvc/?username=ajinkgupta&color=dc143c)
+    
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social)](https://github.com/Aditya664)
 
 <div size="20px"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
